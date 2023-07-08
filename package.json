@@ -1,0 +1,27 @@
+{
+		"name": "ms-hari-betest-create-api",
+		"version": "1.0.0",
+		"description": "Jenius Backend Developer CRUD Test - Update",
+		"main": "app.js",
+		"type": "module",
+		"scripts": {
+				"test": "update"
+		},
+		"repository": {
+				"type": "git",
+				"url": "git+https://github.com/Hari-Kiri/ms-hari-betest-update-api.git"
+		},
+		"keywords": [
+				"ms-hari-betest-update-api"
+		],
+		"author": "Hari Yulianto Pratama",
+		"license": "MIT",
+		"bugs": {
+				"url": "https://github.com/Hari-Kiri/ms-hari-betest-update-api/issues"
+		},
+		"homepage": "https://github.com/Hari-Kiri/ms-hari-betest-update-api#readme",
+		"dependencies": {
+				"express": "^4.18.2",
+				"mongoose": "^7.3.2"
+		}
+}
